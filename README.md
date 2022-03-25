@@ -1,4 +1,7 @@
 # Hierarchical Deep Stereo Matching on High Resolution Images
+
+### This repo is forked from https://github.com/gengshan-y/high-res-stereo
+
 ### [[project webpage](http://www.contrib.andrew.cmu.edu/~gengshay/cvpr19stereo)]
 
 <img src="./architecture.png" width="800">
