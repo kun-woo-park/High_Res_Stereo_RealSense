@@ -100,3 +100,8 @@ year = {2019}
 ## Acknowledgement
 Part of the code is borrowed from [MiddEval-SDK](http://vision.middlebury.edu/stereo/submit3/), [PSMNet](https://github.com/JiaRenChang/PSMNet), [FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) and [pytorch-semseg](https://github.com/meetshah1995/pytorch-semseg).
 Thanks [SorcererX](https://github.com/SorcererX/high-res-stereo) for fixing version compatibility issues.
+
+## Add realsense to prediction source. To implement, follow the below command(2022-03-24)
+```bash
+python3 test_stream_depth.py
+```
