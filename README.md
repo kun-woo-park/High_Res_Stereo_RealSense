@@ -103,5 +103,7 @@ Thanks [SorcererX](https://github.com/SorcererX/high-res-stereo) for fixing vers
 
 ## Add realsense to prediction source. To implement, follow the below command(2022-03-24)
 ```bash
+pip install pyrealsense2
+
 python3 test_stream_depth.py
 ```
